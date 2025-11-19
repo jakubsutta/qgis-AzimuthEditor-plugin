@@ -1,0 +1,10 @@
+[general]
+name=AzimuthEditor
+qgisMinimumVersion=3.0
+qgisMaximumVersion=3.99
+description=Plugin pro interaktivní úpravu atributu "azimuth" bodových prvků. | Plugin for interactive editing of the "azimuth" attribute of point features.
+version=1.0
+author=Jakub Šutta
+about=Plugin přidá toolbar se spinboxem a tlačítky "+/-" pro změnu hodnoty "azimuth" u vybraného bodu v reálném čase. | The plugin adds a toolbar with a spinbox and "+/-" buttons to change the "azimuth" value of the selected point in real time.
+category=Vector
+icon=icon.png
